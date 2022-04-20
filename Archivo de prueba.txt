@@ -1,0 +1,13 @@
+git config use.name (Sirve para revisar cual es el usuario que está logeado en la consola)
+
+git config --global --unset user.name (Sirve para cerrar el usuario que está logeado en la consola)
+
+git config --global --unset user.email 
+
+Para iniciar sesión
+git config --global user.name ""
+git config --global user.email micorreo
+
+git clone (Sirve para tener el cuenta el link del repositorio)
+git status (Sirve para revisar el status del repositorio en la consola)
+git commit -m (Sirve para dejar un comentario)
