@@ -1,0 +1,69 @@
+Laboratorios Bell
+Es una compañía estadounidense de investigación y desarrollo científico, actualmente propiedad de la empresa finlandesa Nokia.
+
+https://www.enter.co/empresas/negocios/los-10-inventos-de-bell-labs-que-cambiaron-el-mundo/ 
+
+Dennis Ritchie
+Es conocido sobre todo por ser el creador del lenguaje de programación C y cocreador, junto con Ken Thompson, del sistema operativo Unix.
+
+C++
+Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
+
+Bjarne Stroustrup
+Es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas. Es reconocido principalmente por el desarrollo del lenguaje de programación C++.
+
+C#
+Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO. C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
+
+Haskell
+Es un lenguaje de programación estandarizado multi-propósito, funcionalmente puro, con evaluación no estricta y memorizada, y fuerte tipificación estática. Su nombre se debe al lógico estadounidense Haskell Curry, debido a su aportación al cálculo lambda, el cual tiene gran influencia en el lenguaje.
+
+LISP
+
+
+IBM (International Business Machines)
+Sus actividades incluyen la investigación, desarrollo, fabricación y comercialización de tecnologías, productos de hardware y software, así como servicios de TI, outsourcing, integración de sistemas, financiamiento y servicios de consultoría de negocio.
+
+
+Kotlin
+Es un lenguaje de programación de tipado estático que corre sobre la máquina virtual de Java y que también puede ser compilado a código fuente de JavaScript. Es un lenguaje de programación de código abierto creado por JetBrains que se ha popularizado gracias a que se puede utilizar para programar aplicaciones Android.
+
+Swift
+Es un lenguaje de programación multiparadigma creado por Apple enfocado en el desarrollo de aplicaciones para iOS y macOS. Es un lenguaje de programación poderoso e intuitivo creado por Apple para desarrollar apps de iOS, Mac, Apple TV y Apple Watch. Está diseñado para brindar a los desarrolladores más libertad que nunca.
+
+Q#
+Es un lenguaje de programación y un simulador de computación cuántica creado por Microsoft. Este lenguaje se creó para expresar algoritmos cuánticos y para que los programadores desarrollen sus propios programas cuánticos.
+
+F#
+Es un lenguaje de programación multiparadigma de código abierto, ​ para la plataforma .NET, que conjunta la programación funcional con las disciplinas imperativa y orientada a objetos.
+
+Blender
+Es un programa informático multiplataforma, dedicado especialmente al modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales. También de composición digital utilizando la técnica procesal de nodos, edición de vídeo, escultura y pintura digital. 
+
+3DStudioMax
+Es un programa de computación gráfica para crear modelos 3D, animaciones e imágenes digitales. Es uno de los programas más populares en la industria de la computación gráfica y es conocido por tener un conjunto de herramientas robustas para artistas 3D.
+
+3D Studio Maya
+Es un programa informático dedicado al desarrollo de gráficos 3D por ordenador, efectos especiales, animación y dibujo.
+
+https://knowledge.autodesk.com/es/support/3ds-max/learn-explore/caas/sfdcarticles/sfdcarticles/ESP/Comparison-of-3ds-Max-and-Maya.html 
+
+
+
+John Carmack
+Es un programador de juegos estadounidense y cofundador de id Software. Fue el principal programador de juegos de id, tales como Commander Keen, Wolfenstein 3D, Doom, Quake, Rage y sus secuelas.
+
+RenderWare
+Es un motor gráfico para videojuegos creado por la desarrolladora británica Criterion Games.
+
+Gamebryo
+Es un motor de videojuego, originalmente propiedad de Numerical Design Limited, y es el sucesor del motor NetInmerse, también de NDL.
+
+Boo
+Es un lenguaje de programación orientado a objetos, de tipos estáticos para la Common Language Infrastructure con una sintaxis inspirada en Python y un énfasis en la extensibilidad del lenguaje y su compilador.
+
+JavaScript
+Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+.NET Core
+Es la plataforma de desarrollo de Microsoft más moderna, de código fuente abierto, multiplataforma y de alto rendimiento para la creación de todo tipo de aplicaciones. 
